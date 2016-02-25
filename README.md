@@ -1,4 +1,4 @@
 # 3d-printer
 3D Printer related stuff
 
-[Printer Wiki](https://github.com/thejordanclark/3d-printer/wiki)
+[Printer Wiki](https://github.com/p42/3d-printer/wiki)
